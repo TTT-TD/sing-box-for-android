@@ -6,7 +6,7 @@ git clone https://github.com/yaotthaha/sing-box-pub sing-box
 cd sing-box
 ##########################
 # 这里可以切换分支
-git checkout dev-next-yaott
+git checkout dev-next
 ##########################
 # https://github.com/yaotthaha/sing-box-pub@dev-next-yaott 编译 with_clash_ui 需要，其他分支可以注释掉 #########
 git submodule init
