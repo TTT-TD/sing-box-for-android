@@ -1,7 +1,8 @@
 #!/bin/bash
 ##### 除非你知道自己在干什么，否则什么都不要动 #####
 # 想使用指定分支请修改链接，注意不要去掉后面的`sing-box`
-git clone https://github.com/yaotthaha/sing-box-pub sing-box
+# git clone https://github.com/yaotthaha/sing-box-pub sing-box
+git clone https://github.com/SagerNet/sing-box sing-box
 ###### !! 不要动 !! ######
 cd sing-box
 ##########################
